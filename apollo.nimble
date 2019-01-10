@@ -7,7 +7,7 @@ license       = "MIT"
 srcDir        = "src"
 installExt    = @["nim"]
 binDir        = "bin"
-bin           = @["apollo"]
+bin           = @["apollo", "apollo_client"]
 
 
 # Dependencies
